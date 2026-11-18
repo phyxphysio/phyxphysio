@@ -12,4 +12,4 @@ Senior Full-Stack Engineer at [HealthShare](https://www.healthshare.com.au) in S
 - [meal-prep](https://github.com/phyxphysio/meal-prep): our family's weekly meal planner, with Apple Notes as the database
 - [exercise_app](https://github.com/phyxphysio/exercise_app): exercise prescription and patient re-activation tool for physios
 
-[LinkedIn](https://www.linkedin.com/in/liam-miller-336060bb/) · [liammiller.net](https://liammiller.net)
+[LinkedIn](https://www.linkedin.com/in/liam-miller-336060bb/)
